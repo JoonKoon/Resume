@@ -57,8 +57,8 @@ td {
   padding: 80px 0px 50px 0px;
   position: relative;
   display: block;
-  /*background: rgb(230, 249, 249);*/
-  background: url("https://i.imgur.com/GsRGbOM.png");
+  background: rgb(230, 249, 249);
+  /*background: url("https://i.imgur.com/GsRGbOM.png");*/
   background-attachment: fixed; 
 
 }
